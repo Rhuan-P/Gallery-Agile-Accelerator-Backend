@@ -1,8 +1,35 @@
-# React + Vite
+# Projeto de Servidor com Express e React
+==========================
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este projeto é um servidor web desenvolvido com Express.js e React.js, com o objetivo de fornecer uma API para buscar fotos do Pixabay.
 
-Currently, two official plugins are available:
+## Índice
+--------
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* [Sobre o Projeto](#sobre-o-projeto)
+* [Funcionalidades](#funcionalidades)
+* [Instalação](#instalação)
+* [Uso](#uso)
+* [Contribuição](#contribuição)
+* [Licença](#licença)
+
+## Sobre o Projeto
+---------------
+
+Este projeto utiliza Express.js como servidor web e React.js como biblioteca de interface de usuário. A API é desenvolvida para buscar fotos do Pixabay utilizando a chave de API fornecida.
+
+## Funcionalidades
+--------------
+
+* Busca de fotos do Pixabay utilizando a chave de API
+* Utilização de Express.js como servidor web
+* Utilização de React.js como biblioteca de interface de usuário
+
+## Instalação
+------------
+
+Para instalar o projeto, execute os seguintes comandos:
+
+```bash
+npm install
+npm start
